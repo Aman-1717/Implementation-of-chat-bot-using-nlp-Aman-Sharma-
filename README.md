@@ -1,2 +1,2 @@
 # Chatbot-using-Natural-Language-Processing
-A simple NLP chat bot .
+this is a chat bot using nlp.
